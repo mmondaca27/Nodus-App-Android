@@ -14,6 +14,7 @@
 
         <activity android:name=".NotasActivity" />
 
+        <activity android:name=".CrearNotaActivity" />
 
         <activity
             android:name=".MainActivity"
